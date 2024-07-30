@@ -1,8 +1,10 @@
 """1...sentencias condicionales if,elif, else"""
 """
+
 if: Evalúa una condición y ejecuta el bloque de código si la condición es verdadera.
 elif: (abreviatura de "else if") Evalúa otra condición si las condiciones anteriores son falsas.
 else: Ejecuta un bloque de código si todas las condiciones anteriores son falsas.
+
 """
 #ejemplos usuario y contraseña
 usuario = "admin"
@@ -17,6 +19,7 @@ else:
     print("Usuario o contraseña incorrectos")
  
 #ejemplo elif
+
 nota = 2.9
 if nota >= 3:
     print("Aprobado")
@@ -55,5 +58,3 @@ while intentos > 0:
         print("Usuario o contraseña incorrectos")
         intentos -= 1
         print(f"Le quedan {intentos} intentos usuario bloqueado")
-
-

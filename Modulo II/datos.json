@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Juan",
+        "edad": 30,
+        "ciudad": "Madrid",
+        "hobbies": [
+            "leer",
+            "viajar",
+            "correr"
+        ]
+    },
+    {
+        "nombre": "Jhon",
+        "edad": 40,
+        "ciudad": "Bogota",
+        "hobbies": [
+            "leer",
+            "caminar"
+        ]
+    }
+]
